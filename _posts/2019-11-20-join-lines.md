@@ -16,14 +16,14 @@ when (errorMessage) {
     .
     .
     .
-    else {
+    else -> {
         showServerError()
     }
 }
 ```
 In the `else` branch there was no major code so I just wanted to join with the next line - containing `showServerError()` - using the command mentioned above.
 
-And guess what! It didn't just join the lines, but changed the curly braces to the arrow, like this:
+And guess what! It didn't just join the lines, but removed both curly braces in one step, like this:
 ```kotlin
 when (errorMessage) {
     .
@@ -32,6 +32,5 @@ when (errorMessage) {
     else -> showServerError()
 }
 ```
-It followed the guidelines of Kotlin. Wow!
 
 It was such a great experience, I just continued to press the keybinding, to join as many lines as I could. I'm sure you can imagine the result... 
