@@ -2,13 +2,15 @@
 layout: post
 title:  "Join lines in Android Studio"
 date:   2019-11-20
+excerpt_separator: <!--more-->
 ---
 
 A warm welcome to you, who are reading the first post here, on my brand new blog.
 
 In the previous days I was wondering what could be the best content for the first post in a blog, where I want to share my moments with Linux, Android, etc. Considering these requirements: it should be something deep technical and for sure a long one!
 
-Mean time Android Studio just made me smile today while I was using a keybinding I found recently: the `Join lines` command, default keybinding: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>
+Mean time Android Studio just made me smile today while I was using a keybinding I found recently. <!--more-->
+The `Join lines` command, default keybinding: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>
 
 Starting point:
 ```kotlin
