@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 I was so joyful today morning seeing the first snow of the winter. The whole city was white, and especially the inner court of the office building was amazingly snowy.
 
-But there was one more shiny white surprise today: finally, I received my new [sit/stand desk from Ikea](https://www.ikea.com/hu/hu/images/products/skarsta-asztal-ulo-allomunkahoz-feher__0324865_PE518142_S5.JPG).
+But there was one more shiny white surprise today: finally, I received my new [sit/stand desk from Ikea](/assets/images/IMG_20191202_202649.jpg).
 <!--more-->
 
 I've been waiting for it since ages, but I decided to buy it a couple of days ago, and now it became real!
