@@ -7,8 +7,10 @@ excerpt_separator: <!--more-->
 
 I was so joyful today morning seeing the first snow of the winter. The whole city was white, and especially the inner court of the office building was amazingly snowy.
 
-But there was one more shiny white surprise today: finally, I received my new [sit/stand desk from Ikea](/assets/images/IMG_20191202_202649.jpg).
+But there was one more shiny white surprise today: finally, I received my new sit/stand desk from Ikea.
 <!--more-->
+
+<img src="https://matevojts.github.io//assets/images/IMG_20191202_202649.jpg" style="display: block; margin: auto;" />
 
 I've been waiting for it since ages, but I decided to buy it a couple of days ago, and now it became real!
 
