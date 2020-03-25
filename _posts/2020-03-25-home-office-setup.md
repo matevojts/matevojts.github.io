@@ -60,8 +60,6 @@ So I needed to [create new keybindings](https://csgobuynds.com/buy-binds-generat
 ## Lights
 As my flat is quite dark (we have only 1 window, which isn't towards the sunlight) I had to implement some additional lighting near my desk. Fortunately, I had an unused spotlight at home which I mounted to the wall. It's pointing to the white ceiling, which reflects the light properly: not to disturb my eyes, but create a warm space in that corner. I connected it into a power strip, which I can switch off for nights, as the spotlight had no built-in switch.
 
-<img src="https://matevojts.github.io//assets/images/IMG_20200325_192847.jpg" style="display: block; margin: auto;" />
-
 ## Room for improvement
 
 1. The jack cable
