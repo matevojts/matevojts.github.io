@@ -23,3 +23,9 @@ I'm typing these characters standing, and smiling.
 I'll update you soon how is it going with it!
 
 And my old desk deserves a standing ovation: I received it 24 years ago, in 1995, when I entered elementary school. It was supporting me in 3 different cities, and it's still in pretty good condition. Thanks for it!
+
+**Update**
+
+I just bought a handy [holder](https://www.2direct.de/ergonomie/pc-halterungen/3457/pc-halterung-zur-untertischmontage-per-gurt) for my PC to keep it under my desk; a [cable holder from IKEA](https://www.ikea.com/hu/hu/p/signum-kabelvezeto-vizszintes-ezuestszinu-30200253/); a monitor arm and with the help of those I made the desk surface more clean.
+
+<img src="https://matevojts.github.io//assets/images/IMG_20200325_193134.jpg" style="display: block; margin: auto;" />
