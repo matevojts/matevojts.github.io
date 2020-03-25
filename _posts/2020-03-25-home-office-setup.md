@@ -76,5 +76,7 @@ As my flat is quite dark (we have only 1 window, which isn't towards the sunligh
 
 <img src="https://matevojts.github.io//assets/images/IMG_20200321_122133.jpg" style="display: block; margin: auto;" />
 
+As maybe you realized from the photo I also have a sit/standing desk to maintain my health. I have to mention that it's the best furniture I ever had. More in [this post](https://www.matevojts.hu/2019/12/02/standind-desk.html).
+
 I hope I could give you some ideas about how to improve your setup too, to survive this period with minimized interruption and using the tools you maybe already have at home.
 Have a nice day!
