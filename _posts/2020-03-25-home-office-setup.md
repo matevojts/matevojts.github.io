@@ -49,7 +49,7 @@ The mouse was the easiest one, as it works both with Bluetooth and through its U
 
 I thought it will be simple to use my keyboard with both devices, as it allows you to connect 3 different Bluetooth channels, and the keyboard has hotkeys to switch between them. With the laptop it was working already, but the PC has no built-in Bluetooth adapter, so I needed to dig into my backup carton box for a USB Bluetooth adapter. After a 1 hour search it turned out that it disappeared somehow, I could not find it anywhere, even though I knew I had one at some point in the past. I tried to connect it with the mouse's receiver (even though I didn't know which kind of communication channel it's using, but I thought it's ok to give it a shot), but after a couple of unsuccessful rounds it turned out, the receiver can accept other Lightspeed devices only.
 
-I received prompt help from my neighbor (who is also my colleague); he lent me the exact device I needed: a Bluetooth adapter with USB he did not use anymore. I plugged it into the PC, paired with the keyboard and finally (after a bunch of victorious switches between the laptop and PC) I felt happiness and satisfaction.
+I received prompt help from my neighbor (who is also my colleague at [Makery](https://www.makery.co/)); he lent me the exact device I needed: a Bluetooth adapter with USB he did not use anymore. I plugged it into the PC, paired with the keyboard and finally (after a bunch of victorious switches between the laptop and PC) I felt happiness and satisfaction.
 
 ## Lack of numpad
 
