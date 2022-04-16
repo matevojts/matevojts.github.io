@@ -10,8 +10,7 @@ Recently I received a comment on a code review pointing on this line in one of m
 context.getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
 ```
 
-My colleague suggested refactoring it, that the Dependency Injection framework should provide
-the proper system service for me.
+My colleague suggested refactoring it, that the Dependency Injection framework should provide the proper system service for me.
 <!--more-->
 
 ## Examples
@@ -52,7 +51,7 @@ Providing
 
 ```kotlin
 val androidServiceModule = module {
-    single<InputMethodManager> { androidContext().getSystemService()!! }
+    single { androidContext().getSystemService(Context.INPUT_METHOD_SERVICE)!! as InputMethodManager }
 }
 ```
 
@@ -72,6 +71,4 @@ class SomeFragment {
 
 ## Conclusion
 
-This way I could eliminate one more `context` dependency in ViewModels, for example. In addition,
-the code is a lot cleaner, you don't have to read long `getWhateverService()` calls.
-
+This way I could eliminate one more `context` dependency in ViewModels, for example. In addition, the code is a lot cleaner, you don't have to read long `getWhateverService()` calls.
