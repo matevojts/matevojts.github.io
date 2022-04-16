@@ -25,7 +25,7 @@ description: A software engineer's blog © 2019 - 2022 Máté Vojts - Powered by
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: matevojts
-github_username:  matevojts
+github_username: matevojts
 facebook_username: mate.vojts
 
 # Build settings
