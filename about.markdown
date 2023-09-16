@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A long time ago in 2017, a friend of mine showed me what he was doing in his job: developing Android apps.
+I am a team lead, project manager, organization coach, and many more.
 
-Right now I'm doing the same as a freelance Android dev, with memories like the first lines written in Kotlin, and when RxJava became a thing for me.
+Still, the most important task of my workdays is to listen to colleagues and partners and empower them to do their jobs efficiently.
 
-I fell in love with Git, it's amazing to see the many little steps leading to an app, which helps people in day-to-day life.
+I'm also an (ex) Android Engineer, git fanboy, and Vim user.
 
 <img src="https://matevojts.github.io//assets/images/Mate_Vojts.jpg" style="display: block; margin: auto;" />
