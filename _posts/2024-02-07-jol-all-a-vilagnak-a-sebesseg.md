@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 Heti rendszerességgel tekerek 10-10 km-t a Veszprém megyei faluvilág két települése között. Biciklivel bő fél óra, kellemes edzés. A forgalom minimális, inkább őzekkel és nyulakkal találkozok, mintsem autókkal. Van időm nézelődni, gyönyörködni a tájban, hiszen bringával azért nem kilencvennel repeszt az ember a közutakon, másrészt amúgy sem rohanok.
 
-Az első néhány alkalommal még a nagyobb képre koncentráltam: mikor jön a falu, a következő kereszteződésnél merre kell fordulni, hol érdemes menni a három kátyú között. Ahogy az útvonal már rutinból megvolt, el tudtam kezdeni fókuszálni másra is: egyre több őzet és madarat vettem észre, szép fákat, amik biztonságot nyújtva meresztik ágaikat a mező egy része fölé és szemetet. Töménytelen
+Az első néhány alkalommal még a nagyobb képre koncentráltam: mikor jön a falu, a következő kereszteződésnél merre kell fordulni, hol érdemes menni a három kátyú között. Ahogy az útvonal már rutinból megvolt, el tudtam kezdeni fókuszálni másra is: egyre több őzet és madarat vettem észre, szép fákat, amik biztonságot nyújtva meresztik ágaikat a mező egy része fölé, és szemetet. Töménytelen
 szemetet.<!--more-->
 
 Sörös, energiaitalos dobozok végeláthatatlan sorát, PET palackokat, autóalkatrészeket, egész zsák szemetet az út mellé kiszórva.
