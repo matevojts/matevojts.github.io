@@ -17,7 +17,7 @@ Szinte minden értesítés ki van kapcsolva mind a telefonomon, mind a laptopomo
 
 AI elő: hogy lehet 5 percenként értesítést küldeni magamnak Mac-en, ami csak akkor megy, amikor nincs lezárva a kijelző?
 
-Hammerspoon és egy egyszerű script lett a válasz.
+[Hammerspoon](https://github.com/Hammerspoon/hammerspoon) és egy egyszerű script lett a válasz.
 
 Ráadásul még egy kis finomítás is belefért: elsőre csak hanghatás jött, látható értesítés nem. Pikpakk rájöttem, hogy ez így még jobb is, hiszen kisebb a zavarás, de pont elég ahhoz, hogy megfeszítsem a szükséges izmokat, másokat pedig ellazítsak.
 
